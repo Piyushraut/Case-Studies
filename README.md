@@ -1,2 +1,2 @@
-# Case-Studies
-Python, R, SQL case studies
+#Python Case-Studies
+Python case studies
